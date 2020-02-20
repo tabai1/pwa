@@ -1,0 +1,14 @@
+{  
+"name": "Hello World",   
+"short_name": "Hello", 
+"lang": "en-US",     
+"start_url": "/index.html", 
+"display": "standalone",  
+"background_color": "white",   
+"theme_color": "red",
+"icons": [{
+    "src": "https://cdn3.iconfinder.com/data/icons/softwaredemo/PNG/256x256/Circle_Red.png",
+    "sizes": "256x256",
+    "type": "image/png"
+  }] 
+}
